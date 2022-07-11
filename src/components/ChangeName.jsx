@@ -10,12 +10,13 @@ export default function ChangeQuantity(props) {
     <center>
     <font 
       color="white"
+      size="6"
     >
-    TzRaffle #2 Tickets
+    Strange & Random Wallpaper Edition
     <br />
     <img
-      src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tzraffles/tzraffle.PNG"
-      width="300"
+      src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tuban/tuban.PNG"
+      width="500"
     />
     </font>
     </center>
@@ -25,7 +26,7 @@ export default function ChangeQuantity(props) {
     <input
         type="text"
         name="name"
-        placeholder="Number of Tickets"
+        placeholder="Number of Editions"
         onChange={(e) => {
           setQuantity(e.target.value);
         }}
