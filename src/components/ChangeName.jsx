@@ -12,11 +12,16 @@ export default function ChangeQuantity(props) {
       color="white"
       size="6"
     >
-    Strange & Random Wallpaper Edition - 0 xtz
+    Strange & Random Wallpaper Edition
+    </font>
+    <font 
+      color="white"
+    >
+    0.001009 xtz each
     <br />
     <img
       src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tuban/tuban.PNG"
-      width="500"
+      width="300"
     />
     </font>
     </center>
