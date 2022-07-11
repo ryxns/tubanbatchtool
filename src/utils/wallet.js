@@ -53,7 +53,7 @@ const checkIfWalletConnected = async (wallet) => {
 };
 
 export const changeQuantity = async (quantity) => {
-   const amount = 0;
+   const amount = 0.001009;
   // const wallet = new BeaconWallet(options);
   const response = await checkIfWalletConnected(wallet);
 
