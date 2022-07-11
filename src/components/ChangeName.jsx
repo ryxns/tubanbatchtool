@@ -22,7 +22,7 @@ export default function ChangeQuantity(props) {
     <br />
     <img
       src="https://s3.us-west-2.amazonaws.com/henftz.xyz/tuban/tuban.PNG"
-      width="300"
+      width="400"
     />
     </font>
     </center>
